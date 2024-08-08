@@ -47,7 +47,7 @@ The SPLUNK-SIEM repository provides a comprehensive set of tools and configurati
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/vijaykumargowdakk/SPLUNK-SIEM.git
+git clone htthttps://github.com/DhanushreeMS/Splunk-SIEM.git
 cd SPLUNK-SIEM
 ```
 
@@ -151,7 +151,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or support, please open an issue on the [GitHub repository](https://github.com/vijaykumargowdakk/SPLUNK-SIEM) or contact [rvit21bis065.rvitm@rvei.edu.in](mailto:rvit21bis065.rvitm@rvei.edu.in).
+For questions or support, please open an issue on the [GitHub repository](https://github.com/DhanushreeMS/Splunk-SIEM.git) or contact [msdhanushree116@gmail.com](mailto:msdhanushree116@gmail.com).
 
 ## Acknowledgements
 
